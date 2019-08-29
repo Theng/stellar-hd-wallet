@@ -24,7 +24,7 @@
     "keys"
   ],
   "dependencies": {
-    "bip39": "^2.5.0",
+    "bip39": "3.0.2",
     "create-hmac": "^1.1.7",
     "lodash": "^4.17.11",
     "stellar-base": "^0.13.1"
